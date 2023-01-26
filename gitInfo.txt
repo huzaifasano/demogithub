@@ -12,3 +12,6 @@ status chack karne ka lia =====
 [CMD] git stutas
 ===================
 
+email:huzaifasano12@gmail.com
+password:huzaifa0316011
+username:huzaifasano
