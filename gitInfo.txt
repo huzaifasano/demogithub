@@ -1,0 +1,14 @@
+Git repo Init karnay ky liyay use karty hai. ==========
+[CMD] git init
+==========
+
+koi file add karni ho us ka lia git add specific file add ====
+[CMD] git add abc.txt
+koi file add karni ho us ka lia git add All file add ====
+[CMD] git add .
+===========
+
+status chack karne ka lia =====
+[CMD] git stutas
+===================
+
